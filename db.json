@@ -1,0 +1,65 @@
+{
+  "coffeeItems": [
+    {
+      "id": "1",
+      "title": "Espresso",
+      "description": "Strong and bold shot of coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "price": 20
+    },
+    {
+      "id": "2",
+      "title": "Latte",
+      "description": "Smooth blend of espresso and steamed milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "price": 30
+    },
+    {
+      "id": "3",
+      "title": "Cappuccino",
+      "description": "Classic Italian coffee with equal parts espresso, steamed milk, and foam.",
+      "imageUrl": "https://www.royalcupcoffee.com/sites/default/files/images/blog/AdobeStock_159183621update.jpg",
+      "price": 15
+    },
+    {
+      "id": "4",
+      "title": "Americano",
+      "description": "Espresso diluted with hot water for a smooth, long drink.",
+      "imageUrl": "https://dropinblog.net/34243353/files/featured/image1-ouxf5.png",
+      "price": 42
+    }
+  ],
+  "users": [
+    {
+      "id": "93fe58cf-52cb-487b-bd5d-f8f5fa5aa346",
+      "email": "kuatbakyt@gmail.com",
+      "password": "787898bakyt",
+      "name": "Bakyt"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "3f2b",
+      "userId": "a015",
+      "name": "kuat",
+      "rating": 5,
+      "comment": "Хороший сайт",
+      "date": "2025-11-11T11:31:46.060Z"
+    },
+    {
+      "id": "81e3",
+      "userId": "93fe58cf-52cb-487b-bd5d-f8f5fa5aa346",
+      "author": "Bakyt",
+      "comment": "Класнный сайт. Хорошое кофе",
+      "date": "2025-11-15T10:56:46.076Z"
+    },
+    {
+      "id": "210b",
+      "userId": "93fe58cf-52cb-487b-bd5d-f8f5fa5aa346",
+      "name": "Bakyt",
+      "rating": 5,
+      "comment": "Машкареее",
+      "date": "2025-11-15T11:00:36.155Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.travel-card {
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: transform 0.2s ease;
+}
+
+.travel-card:hover {
+  transform: scale(1.03);
+}
+
+.travel-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.travel-card h3 {
+  margin: 12px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.travel-card p {
+  margin: 0 12px 12px;
+  font-size: 0.95rem;
+  color: #666;
+}
